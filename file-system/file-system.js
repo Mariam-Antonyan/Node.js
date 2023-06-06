@@ -142,4 +142,4 @@ function listFilesAndFolders() {
     files.sort();
 
     folders.forEach((folder) => {
-        console.log(`[F] ${folder}`);
+        console.log(`[F] ${folder}`)
